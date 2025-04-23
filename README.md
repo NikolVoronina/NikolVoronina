@@ -10,9 +10,13 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-%230C344B.svg?style=flat&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
 </p>
+
 
 ---
 
