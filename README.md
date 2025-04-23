@@ -30,9 +30,9 @@
 ---
 
 ### 📫 Contact Me:
-- 💌 Email: nikatyan50@gmail.com
-- 🌐 Behance: https://www.behance.net/9665e8cc
-- 📷 Instagram: https://www.instagram.com/nikol_voronina/?hl=ru
+- 💌 Email: [nikatyan50@gmail.com](mailto:nikatyan50@gmail.com)
+- 🌐 [Behance Portfolio](https://www.behance.net/9665e8cc)
+- 📷 [Instagram Profile](https://www.instagram.com/nikol_voronina/?hl=ru)
 
 ---
 
