@@ -30,7 +30,7 @@
 ---
 
 ### 📫 Contact Me:
-- 💌 Email: [nikatyan50@gmail.com](mailto:nikatyan50@gmail.com)
+- 💌 [Email](mailto:nikatyan50@gmail.com)
 - 🌐 [Behance Portfolio](https://www.behance.net/9665e8cc)
 - 📷 [Instagram Profile](https://www.instagram.com/nikol_voronina/?hl=ru)
 - 📲 [Telegram](https://t.me/Nika1_tyan)
