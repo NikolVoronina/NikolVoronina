@@ -1,3 +1,5 @@
+<div style="background-color:#FFC6E5; padding:20px; border-radius:15px;">
+
 <h1 align="center">Hey there! I'm Nikol 👋💻</h1>
 <p align="center">
   🧩 Junior Frontend Developer | 🎨 UI/UX Enthusiast | 🌱 Always learning & creating
@@ -17,23 +19,22 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 🧸 About Me:
-- 📍Based in Oslo, Norway
-- 🇺🇦 From Dnipro, Ukraine
-- 🌈 I love making things beautiful, functional, and full of personality
-- 🚀 Learning React & PostgreSQL & Next.js & Node.js & Prisma & DevOps 
-- 🎯 Passionate about design, storytelling, and meaningful UI/UX
+- 📍Based in Oslo, Norway  
+- 🇺🇦 From Dnipro, Ukraine  
+- 🌈 I love making things beautiful, functional, and full of personality  
+- 🚀 Learning React & PostgreSQL & Next.js & Node.js & Prisma & DevOps   
+- 🎯 Passionate about design, storytelling, and meaningful UI/UX  
 
 ---
 
 ### 📫 Contact Me:
-- 💌 [Email](mailto:nikatyan50@gmail.com)
-- 🌐 [Behance Portfolio](https://www.behance.net/9665e8cc)
-- 📷 [Instagram Profile](https://www.instagram.com/nikol_voronina/?hl=ru)
-- 📲 [Telegram](https://t.me/Nika1_tyan)
+- 💌 [Email](mailto:nikatyan50@gmail.com)  
+- 🌐 [Behance Portfolio](https://www.behance.net/9665e8cc)  
+- 📷 [Instagram Profile](https://www.instagram.com/nikol_voronina/?hl=ru)  
+- 📲 [Telegram](https://t.me/Nika1_tyan)  
 
 ---
 
@@ -42,4 +43,6 @@
 
 ---
 
-✨ Thanks for visiting — let’s build something amazing together! 🌟
+✨ Thanks for visiting — let’s build something amazing together! 🌟  
+
+</div>
