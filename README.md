@@ -38,7 +38,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikolVoronina&show_icons=true&bg_color=30,7a42f4,7fffbf&title_color=ffffff&text_color=3d246e&icon_color=7fffbf)
+![Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikolVoronina&show_icons=true&bg_color=30,FFC6E5,BAD341&title_color=ffffff&text_color=333333&icon_color=BAD341)
 
 ---
 
