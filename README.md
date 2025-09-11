@@ -39,7 +39,11 @@
 ---
 
 ### 📊 GitHub Stats:
-![Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikolVoronina&show_icons=true&bg_color=ffe6f2&text_color=333333&icon_color=66ccff&title_color=ff66b2)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikolVoronina&show_icons=true&bg_color=ffe6f2&text_color=333333&icon_color=66ccff&title_color=ff66b2" height="180px" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolVoronina&layout=compact&bg_color=ffe6f2&text_color=333333&title_color=ff66b2" height="180px" />
+</p>
+
 
 ---
 
