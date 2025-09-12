@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there! I'm Nikol 👋💻</h1>
 <p align="center">
-  🧩 Junior Frontend Developer | 🎨 UI/UX Enthusiast | 🌱 Always learning & creating
+  🧩 Student |  Frontend Developer | 🎨 UI/UX Enthusiast | 🌱 Always learning & creating
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Contact Me:
-- 💌 [Email](mailto:nikatyan50@gmail.com)  
+- 💌 [Email](mailto:nikol.it.50@gmail.com)  
 - 🌐 [Behance Portfolio](https://www.behance.net/9665e8cc)  
 - 📷 [Instagram Profile](https://www.instagram.com/nikol_voronina/?hl=ru)  
 - 📲 [Telegram](https://t.me/Nika1_tyan)  
@@ -47,6 +47,8 @@
 
 ---
 
+<p align="center">
 ✨ Thanks for visiting — let’s build something amazing together! 🌟  
+</p>
 
 </div>
