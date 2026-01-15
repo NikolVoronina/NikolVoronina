@@ -25,7 +25,7 @@
 - 📍Based in Oslo, Norway  
 - 🇺🇦 From Dnipro, Ukraine  
 - 🌈 I love making things beautiful, functional, and full of personality  
-- 🚀 Learning React & PostgreSQL & Next.js & Node.js & Prisma & DevOps   
+- 🚀 Learning React & PostgreSQL & Next.js & Node.js & Prisma   
 - 🎯 Passionate about design, storytelling, and meaningful UI/UX  
 
 ---
