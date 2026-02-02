@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there! I'm Nikol 👋💻</h1>
 <p align="center">
-  🧩 Student |  Frontend Developer | 🎨 UI/UX Enthusiast | 🌱 Always learning & creating
+  🧩 Student |  Frontend Developer | 🎨 UI/UX  | 🌱 Always learning & creating
 </p>
 
 ---
@@ -23,10 +23,8 @@
 
 ### 🧸 About Me:
 - 📍Based in Oslo, Norway  
-- 🇺🇦 From Dnipro, Ukraine  
-- 🌈 I love making things beautiful, functional, and full of personality  
-- 🚀 Learning React & PostgreSQL & Next.js & Node.js & Prisma   
-- 🎯 Passionate about design, storytelling, and meaningful UI/UX  
+- 🚀 Learning React & PostgreSQL & Next.js & Node.js  
+
 
 ---
 
@@ -47,8 +45,6 @@
 
 ---
 
-<p align="center">
-✨ Thanks for visiting — let’s build something amazing together! 🌟  
-</p>
+
 
 </div>
