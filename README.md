@@ -1,6 +1,6 @@
 <div style="background-color:#FFC6E5; padding:20px; border-radius:15px;">
 
-<h1 align="center">Hey there! I'm Nikol 👋💻</h1>
+<h1 align="center">Hey there! I'm Nikol.</h1>
 <p align="center">
   🧩 Student |  Frontend Developer | 🎨 UI/UX  | 🌱 Always learning & creating
 </p>
