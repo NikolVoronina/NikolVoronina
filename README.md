@@ -2,12 +2,12 @@
 
 <h1 align="center">Hey there! I'm Nikol.</h1>
 <p align="center">
-  🧩 Student |  Frontend Developer | 🎨 UI/UX  | 🌱 Always learning & creating
+   Student | Frontend Developer | UI/UX | Always learning & creating
 </p>
 
 ---
 
-### 💻 Tech Stack:
+### Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white"/>
@@ -19,9 +19,9 @@
 
 ---
 
-### 🧸 About Me:
+###  About Me:
 - 📍Based in Oslo, Norway  
-- 🚀 Learning React & PostgreSQL & Next.js & Node.js  
+-  Learning React & PostgreSQL & Next.js & Node.js  
 
 
 ---
